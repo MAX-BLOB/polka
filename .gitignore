@@ -1,0 +1,13 @@
+# build artifacts
+*.log
+bin/
+obj/
+*.user
+*.suo
+
+# local test data
+demo-data/
+preview-data/
+testdata/
+smoke-data/
+tmp-data/
